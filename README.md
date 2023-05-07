@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vipin Kumar
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning.......... Compose, MAD Android Skills
 - 📫 I am currently working as Sr. Android Integration Engineer at MoEngage Inc.
