@@ -77,9 +77,9 @@
 
 <div style="text-align: center;">
 
-![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky7230&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky7230&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -104,8 +104,8 @@
 <div style="text-align: center;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-kumar-ba0540100/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicky7230@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicky7230)
 
 </div>
 
@@ -121,4 +121,4 @@
 
 ## 📈 Contribution Graph
 
-![Vipin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+![Vipin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vicky7230&theme=react-dark&hide_border=true)
