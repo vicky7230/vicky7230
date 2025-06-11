@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 📱 **Senior Android Engineer** with **8 years** of experience building robust mobile applications
-- 🏢 Currently working at **Rapido** as Senior Product Engineer - Android
+- 🏢 Last worked at **Rapido** as Senior Product Engineer - Android
 - 🔧 Previously worked at **MoEngage** as Sr. Android Integration Engineer
 - 🎓 Bachelor of Technology from **Assam University** (2011-2015)
 - 💡 Passionate about **clean architecture**, **performance optimization**, and **user experience**
@@ -26,7 +26,7 @@
 
 ### 🚗 **Rapido** - Senior Product Engineer - Android
 
-*Current • 1.2+ years*
+*1.2+ years*
 
 - Building and scaling Android applications for ride-hailing platform
 - Working on product engineering and feature development
