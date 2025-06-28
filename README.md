@@ -1,14 +1,12 @@
-# Hey there! 👋 I'm Vipin Kumar
+# Vipin Kumar
 
 <div style="text-align: center;">
 
-**Android Developer** 🚗
+# Android Developer
 
 *Passionate about building scalable mobile solutions with 8+ years of Android expertise*
 
 </div>
-
----
 
 ## 🚀 About Me
 
